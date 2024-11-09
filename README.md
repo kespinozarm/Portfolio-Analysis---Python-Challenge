@@ -6,6 +6,14 @@ Portfolio analysis is a systematic way to evaluate investment portfolios to opti
 
 :newspaper: **Dataset**: This lab utilizes three datasets:
 
-`asset_price_data.csv` : Contains prices of 5 different Assets
+`asset_price_data.csv` : Contains prices of 5 different Assets throught a range of time.
+
+`portfolio_weights.csv` : Contains the daily weights of each asset in the portfolio.
+
+`asset_information_data.csv.` :  Categories that will help us for grouping the assets. 
+
+
+
+
 
 
